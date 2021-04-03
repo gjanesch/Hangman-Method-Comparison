@@ -1,0 +1,1 @@
+This code was used to try to determine the effectiveness of a few different strategies in Hangman.  The Jupyter notebook contains the code used, and a writeup of the results is [here](https://data-and-the-world.onrender.com/posts/hangman-conditional-probability/).
